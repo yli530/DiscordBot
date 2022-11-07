@@ -1,0 +1,8 @@
+{
+	"token": "discord bot token here",
+	"twtKey": "twitter api key",
+	"twtSecret": "twitter api secret",
+	"accessTok": "twitter api access token",
+	"accessSecret": "twitter api access secret",
+	"malClient" : "mal client token"
+}
